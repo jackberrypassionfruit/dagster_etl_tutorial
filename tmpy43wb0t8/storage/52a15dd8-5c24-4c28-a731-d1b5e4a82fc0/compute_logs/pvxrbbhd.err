@@ -1,5 +1,0 @@
-[32m2025-02-07 21:55:26 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 52a15dd8-5c24-4c28-a731-d1b5e4a82fc0 - 256866 - LOGS_CAPTURED - Started capturing logs in process (pid: 256866).
-[32m2025-02-07 21:55:26 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 52a15dd8-5c24-4c28-a731-d1b5e4a82fc0 - 256866 - product_performance - STEP_START - Started execution of step "product_performance".
-[32m2025-02-07 21:55:26 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 52a15dd8-5c24-4c28-a731-d1b5e4a82fc0 - 256866 - product_performance - STEP_OUTPUT - Yielded output "result" of type "Any". (Type check passed).
-[32m2025-02-07 21:55:26 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 52a15dd8-5c24-4c28-a731-d1b5e4a82fc0 - 256866 - product_performance - ASSET_MATERIALIZATION - Materialized value product_performance.
-[32m2025-02-07 21:55:26 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 52a15dd8-5c24-4c28-a731-d1b5e4a82fc0 - 256866 - product_performance - STEP_SUCCESS - Finished execution of step "product_performance" in 298ms.

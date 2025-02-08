@@ -1,5 +1,0 @@
-[32m2025-02-07 20:48:24 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 04b4fb5e-344f-4e44-be81-29a704e8be1a - 92068 - LOGS_CAPTURED - Started capturing logs in process (pid: 92068).
-[32m2025-02-07 20:48:24 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 04b4fb5e-344f-4e44-be81-29a704e8be1a - 92068 - products - STEP_START - Started execution of step "products".
-[32m2025-02-07 20:48:25 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 04b4fb5e-344f-4e44-be81-29a704e8be1a - 92068 - products - STEP_OUTPUT - Yielded output "result" of type "Nothing". (Type check passed).
-[32m2025-02-07 20:48:25 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 04b4fb5e-344f-4e44-be81-29a704e8be1a - 92068 - products - ASSET_MATERIALIZATION - Materialized value products.
-[32m2025-02-07 20:48:25 -0500[0m - dagster - [34mDEBUG[0m - __ASSET_JOB - 04b4fb5e-344f-4e44-be81-29a704e8be1a - 92068 - products - STEP_SUCCESS - Finished execution of step "products" in 1.02s.
